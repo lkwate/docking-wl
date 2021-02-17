@@ -1,0 +1,306 @@
+MODEL 1
+REMARK VINA RESULT:      -7.2      0.000      0.000
+REMARK  Name = molecules/COLNVLDHVKWLRT-QMMMGPOBSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  PHE A  1       -3.651 -10.779  25.027  0.00  0.00    +0.165 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   PHE A  1       -4.094  -9.722  24.154  0.00  0.00    -0.318 NA
+ATOM      3  H1  PHE A  1       -4.603 -10.042  23.325  0.00  0.00    +0.119 HD
+ATOM      4  H2  PHE A  1       -3.371  -9.000  23.993  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C   PHE A  1       -4.025 -10.439  26.414  0.00  0.00    +0.322 C 
+ATOM      6  OXT PHE A  1       -3.385  -9.585  27.099  0.00  0.00    -0.249 OA
+BRANCH   5   7
+ATOM      7  O   PHE A  1       -5.112 -11.075  26.988  0.00  0.00    -0.480 OA
+ATOM      8  H   PHE A  1       -5.202 -11.176  27.996  0.00  0.00    +0.295 HD
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  CB  PHE A  1       -2.149 -10.877  24.876  0.00  0.00    +0.065 C 
+BRANCH   9  10
+ATOM     10  CG  PHE A  1       -1.722 -11.576  23.643  0.00  0.00    -0.045 A 
+ATOM     11  CD2 PHE A  1       -1.884 -11.071  22.373  0.00  0.00    +0.004 A 
+ATOM     12  CE2 PHE A  1       -1.457 -11.766  21.261  0.00  0.00    +0.000 A 
+ATOM     13  CZ  PHE A  1       -0.851 -13.002  21.433  0.00  0.00    +0.000 A 
+ATOM     14  CE1 PHE A  1       -0.673 -13.536  22.686  0.00  0.00    +0.000 A 
+ATOM     15  CD1 PHE A  1       -1.116 -12.806  23.773  0.00  0.00    +0.004 A 
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.2     23.027     24.738
+REMARK  Name = molecules/COLNVLDHVKWLRT-QMMMGPOBSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  PHE A  1       -2.328 -32.685   9.325  0.00  0.00    +0.165 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   PHE A  1       -3.096 -32.989   8.146  0.00  0.00    -0.318 NA
+ATOM      3  H1  PHE A  1       -3.261 -32.190   7.529  0.00  0.00    +0.119 HD
+ATOM      4  H2  PHE A  1       -3.915 -33.591   8.340  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C   PHE A  1       -2.605 -33.709  10.352  0.00  0.00    +0.322 C 
+ATOM      6  OXT PHE A  1       -1.850 -34.711  10.532  0.00  0.00    -0.249 OA
+BRANCH   5   7
+ATOM      7  O   PHE A  1       -3.731 -33.571  11.146  0.00  0.00    -0.480 OA
+ATOM      8  H   PHE A  1       -4.251 -34.378  11.482  0.00  0.00    +0.295 HD
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  CB  PHE A  1       -2.761 -31.314   9.794  0.00  0.00    +0.065 C 
+BRANCH   9  10
+ATOM     10  CG  PHE A  1       -1.631 -30.391  10.050  0.00  0.00    -0.045 A 
+ATOM     11  CD2 PHE A  1       -0.308 -30.771  10.048  0.00  0.00    +0.004 A 
+ATOM     12  CE2 PHE A  1        0.703 -29.864  10.285  0.00  0.00    +0.000 A 
+ATOM     13  CZ  PHE A  1        0.372 -28.539  10.531  0.00  0.00    +0.000 A 
+ATOM     14  CE1 PHE A  1       -0.937 -28.126  10.541  0.00  0.00    +0.000 A 
+ATOM     15  CD1 PHE A  1       -1.919 -29.067  10.299  0.00  0.00    +0.004 A 
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.7      8.091      9.316
+REMARK  Name = molecules/COLNVLDHVKWLRT-QMMMGPOBSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  PHE A  1       -2.175 -16.870  16.913  0.00  0.00    +0.165 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   PHE A  1       -2.685 -17.643  18.015  0.00  0.00    -0.318 NA
+ATOM      3  H1  PHE A  1       -3.212 -17.100  18.706  0.00  0.00    +0.119 HD
+ATOM      4  H2  PHE A  1       -1.994 -18.312  18.395  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C   PHE A  1       -2.617 -17.494  15.650  0.00  0.00    +0.322 C 
+ATOM      6  OXT PHE A  1       -2.687 -16.846  14.562  0.00  0.00    -0.249 OA
+BRANCH   5   7
+ATOM      7  O   PHE A  1       -2.968 -18.833  15.652  0.00  0.00    -0.480 OA
+ATOM      8  H   PHE A  1       -3.710 -19.191  16.247  0.00  0.00    +0.295 HD
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  CB  PHE A  1       -0.666 -16.880  17.025  0.00  0.00    +0.065 C 
+BRANCH   9  10
+ATOM     10  CG  PHE A  1       -0.135 -15.855  17.953  0.00  0.00    -0.045 A 
+ATOM     11  CD2 PHE A  1       -0.748 -14.649  18.205  0.00  0.00    +0.004 A 
+ATOM     12  CE2 PHE A  1       -0.209 -13.737  19.086  0.00  0.00    +0.000 A 
+ATOM     13  CZ  PHE A  1        0.979 -14.048  19.732  0.00  0.00    +0.000 A 
+ATOM     14  CE1 PHE A  1        1.618 -15.242  19.504  0.00  0.00    +0.000 A 
+ATOM     15  CD1 PHE A  1        1.044 -16.127  18.613  0.00  0.00    +0.004 A 
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.6      5.766      7.123
+REMARK  Name = molecules/COLNVLDHVKWLRT-QMMMGPOBSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  PHE A  1        0.466 -14.518  19.202  0.00  0.00    +0.165 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   PHE A  1       -0.603 -15.481  19.146  0.00  0.00    -0.318 NA
+ATOM      3  H1  PHE A  1       -0.323 -16.408  18.814  0.00  0.00    +0.119 HD
+ATOM      4  H2  PHE A  1       -1.474 -15.097  18.741  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C   PHE A  1        1.616 -15.038  18.436  0.00  0.00    +0.322 C 
+ATOM      6  OXT PHE A  1        2.785 -14.564  18.562  0.00  0.00    -0.249 OA
+BRANCH   5   7
+ATOM      7  O   PHE A  1        1.411 -16.079  17.546  0.00  0.00    -0.480 OA
+ATOM      8  H   PHE A  1        0.529 -16.198  17.055  0.00  0.00    +0.295 HD
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  CB  PHE A  1        0.823 -14.336  20.661  0.00  0.00    +0.065 C 
+BRANCH   9  10
+ATOM     10  CG  PHE A  1       -0.043 -13.362  21.365  0.00  0.00    -0.045 A 
+ATOM     11  CD2 PHE A  1       -0.888 -12.480  20.731  0.00  0.00    +0.004 A 
+ATOM     12  CE2 PHE A  1       -1.677 -11.601  21.441  0.00  0.00    +0.000 A 
+ATOM     13  CZ  PHE A  1       -1.614 -11.611  22.827  0.00  0.00    +0.000 A 
+ATOM     14  CE1 PHE A  1       -0.782 -12.478  23.492  0.00  0.00    +0.000 A 
+ATOM     15  CD1 PHE A  1       -0.008 -13.342  22.742  0.00  0.00    +0.004 A 
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.5     23.231     24.984
+REMARK  Name = molecules/COLNVLDHVKWLRT-QMMMGPOBSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  PHE A  1       -1.868 -32.273   8.502  0.00  0.00    +0.165 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   PHE A  1       -2.901 -33.267   8.638  0.00  0.00    -0.318 NA
+ATOM      3  H1  PHE A  1       -2.711 -34.145   8.148  0.00  0.00    +0.119 HD
+ATOM      4  H2  PHE A  1       -3.854 -32.880   8.524  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C   PHE A  1       -0.690 -32.893   7.864  0.00  0.00    +0.322 C 
+ATOM      6  OXT PHE A  1       -0.368 -32.656   6.661  0.00  0.00    -0.249 OA
+BRANCH   5   7
+ATOM      7  O   PHE A  1        0.090 -33.764   8.605  0.00  0.00    -0.480 OA
+ATOM      8  H   PHE A  1        0.448 -34.630   8.210  0.00  0.00    +0.295 HD
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  CB  PHE A  1       -1.538 -31.784   9.895  0.00  0.00    +0.065 C 
+BRANCH   9  10
+ATOM     10  CG  PHE A  1       -1.822 -30.345  10.101  0.00  0.00    -0.045 A 
+ATOM     11  CD2 PHE A  1       -3.081 -29.791  10.056  0.00  0.00    +0.004 A 
+ATOM     12  CE2 PHE A  1       -3.284 -28.444  10.264  0.00  0.00    +0.000 A 
+ATOM     13  CZ  PHE A  1       -2.190 -27.632  10.525  0.00  0.00    +0.000 A 
+ATOM     14  CE1 PHE A  1       -0.919 -28.151  10.577  0.00  0.00    +0.000 A 
+ATOM     15  CD1 PHE A  1       -0.760 -29.506  10.362  0.00  0.00    +0.004 A 
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.3     20.983     22.692
+REMARK  Name = molecules/COLNVLDHVKWLRT-QMMMGPOBSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  PHE A  1       -0.932 -27.415   9.559  0.00  0.00    +0.165 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   PHE A  1        0.344 -26.974   9.058  0.00  0.00    -0.318 NA
+ATOM      3  H1  PHE A  1        1.109 -27.033   9.736  0.00  0.00    +0.119 HD
+ATOM      4  H2  PHE A  1        0.285 -26.096   8.514  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C   PHE A  1       -1.573 -26.297  10.278  0.00  0.00    +0.322 C 
+ATOM      6  OXT PHE A  1       -1.729 -25.153   9.753  0.00  0.00    -0.249 OA
+BRANCH   5   7
+ATOM      7  O   PHE A  1       -2.021 -26.503  11.572  0.00  0.00    -0.480 OA
+ATOM      8  H   PHE A  1       -2.547 -27.333  11.830  0.00  0.00    +0.295 HD
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  CB  PHE A  1       -0.665 -28.578  10.489  0.00  0.00    +0.065 C 
+BRANCH   9  10
+ATOM     10  CG  PHE A  1       -1.530 -29.752  10.232  0.00  0.00    -0.045 A 
+ATOM     11  CD2 PHE A  1       -2.896 -29.688  10.078  0.00  0.00    +0.004 A 
+ATOM     12  CE2 PHE A  1       -3.648 -30.816   9.831  0.00  0.00    +0.000 A 
+ATOM     13  CZ  PHE A  1       -3.007 -32.043   9.737  0.00  0.00    +0.000 A 
+ATOM     14  CE1 PHE A  1       -1.646 -32.144   9.886  0.00  0.00    +0.000 A 
+ATOM     15  CD1 PHE A  1       -0.930 -30.989  10.132  0.00  0.00    +0.004 A 
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -6.3      3.515      5.186
+REMARK  Name = molecules/COLNVLDHVKWLRT-QMMMGPOBSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  PHE A  1       -1.020 -12.785  23.168  0.00  0.00    +0.165 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   PHE A  1        0.181 -13.406  23.663  0.00  0.00    -0.318 NA
+ATOM      3  H1  PHE A  1        0.622 -14.058  23.010  0.00  0.00    +0.119 HD
+ATOM      4  H2  PHE A  1        0.095 -13.732  24.642  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C   PHE A  1       -1.043 -12.899  21.697  0.00  0.00    +0.322 C 
+ATOM      6  OXT PHE A  1       -0.744 -13.974  21.095  0.00  0.00    -0.249 OA
+BRANCH   5   7
+ATOM      7  O   PHE A  1       -1.404 -11.794  20.946  0.00  0.00    -0.480 OA
+ATOM      8  H   PHE A  1       -0.756 -11.350  20.300  0.00  0.00    +0.295 HD
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  CB  PHE A  1       -0.979 -11.336  23.600  0.00  0.00    +0.065 C 
+BRANCH   9  10
+ATOM     10  CG  PHE A  1       -2.175 -10.912  24.364  0.00  0.00    -0.045 A 
+ATOM     11  CD2 PHE A  1       -2.257 -10.920  25.738  0.00  0.00    +0.004 A 
+ATOM     12  CE2 PHE A  1       -3.396 -10.505  26.395  0.00  0.00    +0.000 A 
+ATOM     13  CZ  PHE A  1       -4.481 -10.070  25.648  0.00  0.00    +0.000 A 
+ATOM     14  CE1 PHE A  1       -4.434 -10.049  24.276  0.00  0.00    +0.000 A 
+ATOM     15  CD1 PHE A  1       -3.273 -10.473  23.658  0.00  0.00    +0.004 A 
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -6.0     18.275     19.908
+REMARK  Name = molecules/COLNVLDHVKWLRT-QMMMGPOBSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  PHE A  1       -4.458 -25.444  12.213  0.00  0.00    +0.165 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   PHE A  1       -5.198 -26.371  13.031  0.00  0.00    -0.318 NA
+ATOM      3  H1  PHE A  1       -6.193 -26.153  13.124  0.00  0.00    +0.119 HD
+ATOM      4  H2  PHE A  1       -4.704 -26.625  13.904  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C   PHE A  1       -5.184 -24.160  12.173  0.00  0.00    +0.322 C 
+ATOM      6  OXT PHE A  1       -4.774 -23.170  11.495  0.00  0.00    -0.249 OA
+BRANCH   5   7
+ATOM      7  O   PHE A  1       -6.355 -24.030  12.902  0.00  0.00    -0.480 OA
+ATOM      8  H   PHE A  1       -6.378 -23.546  13.795  0.00  0.00    +0.295 HD
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  CB  PHE A  1       -4.356 -26.055  10.833  0.00  0.00    +0.065 C 
+BRANCH   9  10
+ATOM     10  CG  PHE A  1       -3.221 -26.994  10.683  0.00  0.00    -0.045 A 
+ATOM     11  CD2 PHE A  1       -1.905 -26.657  10.904  0.00  0.00    +0.004 A 
+ATOM     12  CE2 PHE A  1       -0.890 -27.578  10.756  0.00  0.00    +0.000 A 
+ATOM     13  CZ  PHE A  1       -1.209 -28.873  10.376  0.00  0.00    +0.000 A 
+ATOM     14  CE1 PHE A  1       -2.512 -29.244  10.147  0.00  0.00    +0.000 A 
+ATOM     15  CD1 PHE A  1       -3.498 -28.290  10.306  0.00  0.00    +0.004 A 
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -6.0     17.917     19.169
+REMARK  Name = molecules/COLNVLDHVKWLRT-QMMMGPOBSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  PHE A  1       -6.113 -25.082  12.250  0.00  0.00    +0.165 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   PHE A  1       -6.831 -23.875  11.932  0.00  0.00    -0.318 NA
+ATOM      3  H1  PHE A  1       -6.239 -23.097  11.628  0.00  0.00    +0.119 HD
+ATOM      4  H2  PHE A  1       -7.563 -23.644  12.625  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  C   PHE A  1       -6.440 -25.480  13.633  0.00  0.00    +0.322 C 
+ATOM      6  OXT PHE A  1       -6.925 -26.618  13.915  0.00  0.00    -0.249 OA
+BRANCH   5   7
+ATOM      7  O   PHE A  1       -6.211 -24.581  14.660  0.00  0.00    -0.480 OA
+ATOM      8  H   PHE A  1       -6.315 -24.844  15.637  0.00  0.00    +0.295 HD
+ENDBRANCH   5   7
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  CB  PHE A  1       -4.639 -24.771  12.108  0.00  0.00    +0.065 C 
+BRANCH   9  10
+ATOM     10  CG  PHE A  1       -3.851 -25.888  11.537  0.00  0.00    -0.045 A 
+ATOM     11  CD2 PHE A  1       -4.390 -27.090  11.139  0.00  0.00    +0.004 A 
+ATOM     12  CE2 PHE A  1       -3.606 -28.090  10.605  0.00  0.00    +0.000 A 
+ATOM     13  CZ  PHE A  1       -2.243 -27.874  10.469  0.00  0.00    +0.000 A 
+ATOM     14  CE1 PHE A  1       -1.671 -26.687  10.856  0.00  0.00    +0.000 A 
+ATOM     15  CD1 PHE A  1       -2.493 -25.711  11.386  0.00  0.00    +0.004 A 
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL

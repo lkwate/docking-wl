@@ -1,0 +1,279 @@
+MODEL 1
+REMARK VINA RESULT:      -4.2      0.000      0.000
+REMARK  Name = molecules/AGPKZVBTJJNPAG-WHFBIAKZSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  ILE A  1        4.086 -40.993  -0.146  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   ILE A  1        4.717 -41.755  -1.173  0.00  0.00    -0.318 NA
+ATOM      3  H1  ILE A  1        5.150 -41.100  -1.857  0.00  0.00    +0.119 HD
+ATOM      4  H2  ILE A  1        4.041 -42.344  -1.706  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  CB  ILE A  1        2.800 -41.579   0.354  0.00  0.00    +0.013 C 
+ATOM      6  CG2 ILE A  1        1.725 -41.322  -0.683  0.00  0.00    +0.009 C 
+BRANCH   5   8
+ATOM      7  CD1 ILE A  1        2.447 -43.419   2.001  0.00  0.00    +0.004 C 
+ATOM      8  CG1 ILE A  1        2.867 -43.066   0.582  0.00  0.00    +0.002 C 
+ENDBRANCH   5   8
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  C   ILE A  1        5.009 -40.885   1.012  0.00  0.00    +0.322 C 
+ATOM     10  OXT ILE A  1        6.229 -41.210   0.955  0.00  0.00    -0.249 OA
+BRANCH   9  11
+ATOM     11  O   ILE A  1        4.555 -40.412   2.232  0.00  0.00    -0.480 OA
+ATOM     12  H   ILE A  1        5.227 -40.088   2.916  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.2      8.828     10.291
+REMARK  Name = molecules/AGPKZVBTJJNPAG-WHFBIAKZSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  ILE A  1       11.814 -42.643   5.425  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   ILE A  1       12.693 -42.397   4.329  0.00  0.00    -0.318 NA
+ATOM      3  H1  ILE A  1       12.977 -41.395   4.346  0.00  0.00    +0.119 HD
+ATOM      4  H2  ILE A  1       12.238 -42.566   3.406  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  CB  ILE A  1       12.249 -42.017   6.716  0.00  0.00    +0.013 C 
+ATOM      6  CG2 ILE A  1       12.167 -43.067   7.805  0.00  0.00    +0.009 C 
+BRANCH   5   8
+ATOM      7  CD1 ILE A  1       14.116 -41.073   8.073  0.00  0.00    +0.004 C 
+ATOM      8  CG1 ILE A  1       13.664 -41.501   6.686  0.00  0.00    +0.002 C 
+ENDBRANCH   5   8
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  C   ILE A  1       10.470 -42.103   5.096  0.00  0.00    +0.322 C 
+ATOM     10  OXT ILE A  1        9.510 -42.830   4.710  0.00  0.00    -0.249 OA
+BRANCH   9  11
+ATOM     11  O   ILE A  1       10.211 -40.746   5.202  0.00  0.00    -0.480 OA
+ATOM     12  H   ILE A  1        9.255 -40.435   5.320  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -3.9      8.429      9.631
+REMARK  Name = molecules/AGPKZVBTJJNPAG-WHFBIAKZSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  ILE A  1       10.212 -41.897   5.837  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   ILE A  1       10.503 -41.789   4.446  0.00  0.00    -0.318 NA
+ATOM      3  H1  ILE A  1       11.525 -41.624   4.329  0.00  0.00    +0.119 HD
+ATOM      4  H2  ILE A  1       10.014 -40.984   3.997  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  CB  ILE A  1       11.365 -42.366   6.673  0.00  0.00    +0.013 C 
+ATOM      6  CG2 ILE A  1       11.231 -43.862   6.871  0.00  0.00    +0.009 C 
+BRANCH   5   8
+ATOM      7  CD1 ILE A  1       13.596 -41.289   6.964  0.00  0.00    +0.004 C 
+ATOM      8  CG1 ILE A  1       12.708 -42.109   6.041  0.00  0.00    +0.002 C 
+ENDBRANCH   5   8
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  C   ILE A  1        9.800 -40.565   6.350  0.00  0.00    +0.322 C 
+ATOM     10  OXT ILE A  1        8.992 -40.415   7.309  0.00  0.00    -0.249 OA
+BRANCH   9  11
+ATOM     11  O   ILE A  1       10.302 -39.406   5.779  0.00  0.00    -0.480 OA
+ATOM     12  H   ILE A  1       11.286 -39.195   5.878  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -3.8     13.958     15.320
+REMARK  Name = molecules/AGPKZVBTJJNPAG-WHFBIAKZSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  ILE A  1       17.180 -37.818   6.498  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   ILE A  1       18.421 -37.449   5.902  0.00  0.00    -0.318 NA
+ATOM      3  H1  ILE A  1       18.542 -37.990   5.019  0.00  0.00    +0.119 HD
+ATOM      4  H2  ILE A  1       19.239 -37.674   6.509  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  CB  ILE A  1       16.671 -36.842   7.516  0.00  0.00    +0.013 C 
+ATOM      6  CG2 ILE A  1       17.048 -37.350   8.893  0.00  0.00    +0.009 C 
+BRANCH   5   8
+ATOM      7  CD1 ILE A  1       16.325 -34.413   7.962  0.00  0.00    +0.004 C 
+ATOM      8  CG1 ILE A  1       17.251 -35.461   7.365  0.00  0.00    +0.002 C 
+ENDBRANCH   5   8
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  C   ILE A  1       16.149 -37.936   5.435  0.00  0.00    +0.322 C 
+ATOM     10  OXT ILE A  1       16.327 -37.526   4.254  0.00  0.00    -0.249 OA
+BRANCH   9  11
+ATOM     11  O   ILE A  1       14.920 -38.515   5.708  0.00  0.00    -0.480 OA
+ATOM     12  H   ILE A  1       14.378 -38.174   6.491  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -3.7      2.612      3.208
+REMARK  Name = molecules/AGPKZVBTJJNPAG-WHFBIAKZSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  ILE A  1        3.578 -41.868  -0.749  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   ILE A  1        4.809 -41.290  -1.177  0.00  0.00    -0.318 NA
+ATOM      3  H1  ILE A  1        4.751 -40.256  -1.063  0.00  0.00    +0.119 HD
+ATOM      4  H2  ILE A  1        5.006 -41.471  -2.186  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  CB  ILE A  1        3.139 -41.436   0.618  0.00  0.00    +0.013 C 
+ATOM      6  CG2 ILE A  1        2.750 -42.672   1.404  0.00  0.00    +0.009 C 
+BRANCH   5   8
+ATOM      7  CD1 ILE A  1        3.909 -40.740   2.886  0.00  0.00    +0.004 C 
+ATOM      8  CG1 ILE A  1        4.212 -40.720   1.395  0.00  0.00    +0.002 C 
+ENDBRANCH   5   8
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  C   ILE A  1        2.507 -41.487  -1.705  0.00  0.00    +0.322 C 
+ATOM     10  OXT ILE A  1        2.673 -41.473  -2.957  0.00  0.00    -0.249 OA
+BRANCH   9  11
+ATOM     11  O   ILE A  1        1.252 -41.122  -1.246  0.00  0.00    -0.480 OA
+ATOM     12  H   ILE A  1        1.170 -40.349  -0.598  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -3.7     16.529     17.373
+REMARK  Name = molecules/AGPKZVBTJJNPAG-WHFBIAKZSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  ILE A  1       10.911 -57.293   0.040  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   ILE A  1       11.119 -58.656  -0.323  0.00  0.00    -0.318 NA
+ATOM      3  H1  ILE A  1       10.589 -59.263   0.337  0.00  0.00    +0.119 HD
+ATOM      4  H2  ILE A  1       12.121 -58.939  -0.255  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  CB  ILE A  1       10.730 -57.069   1.511  0.00  0.00    +0.013 C 
+ATOM      6  CG2 ILE A  1        9.668 -56.005   1.703  0.00  0.00    +0.009 C 
+BRANCH   5   8
+ATOM      7  CD1 ILE A  1       11.319 -58.719   3.286  0.00  0.00    +0.004 C 
+ATOM      8  CG1 ILE A  1       10.283 -58.299   2.256  0.00  0.00    +0.002 C 
+ENDBRANCH   5   8
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  C   ILE A  1       12.084 -56.493  -0.395  0.00  0.00    +0.322 C 
+ATOM     10  OXT ILE A  1       12.178 -55.974  -1.543  0.00  0.00    -0.249 OA
+BRANCH   9  11
+ATOM     11  O   ILE A  1       13.148 -56.280   0.467  0.00  0.00    -0.480 OA
+ATOM     12  H   ILE A  1       13.347 -56.966   1.183  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.7      2.326      3.308
+REMARK  Name = molecules/AGPKZVBTJJNPAG-WHFBIAKZSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  ILE A  1        3.703 -41.672  -0.288  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   ILE A  1        4.910 -40.917  -0.370  0.00  0.00    -0.318 NA
+ATOM      3  H1  ILE A  1        5.514 -41.331  -1.110  0.00  0.00    +0.119 HD
+ATOM      4  H2  ILE A  1        5.459 -40.944   0.517  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  CB  ILE A  1        2.949 -41.769  -1.580  0.00  0.00    +0.013 C 
+ATOM      6  CG2 ILE A  1        1.491 -41.463  -1.302  0.00  0.00    +0.009 C 
+BRANCH   5   8
+ATOM      7  CD1 ILE A  1        2.490 -40.787  -3.826  0.00  0.00    +0.004 C 
+ATOM      8  CG1 ILE A  1        3.427 -40.798  -2.628  0.00  0.00    +0.002 C 
+ENDBRANCH   5   8
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  C   ILE A  1        4.027 -43.055   0.146  0.00  0.00    +0.322 C 
+ATOM     10  OXT ILE A  1        4.796 -43.312   1.115  0.00  0.00    -0.249 OA
+BRANCH   9  11
+ATOM     11  O   ILE A  1        3.484 -44.145  -0.515  0.00  0.00    -0.480 OA
+ATOM     12  H   ILE A  1        3.554 -44.196  -1.523  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.7     15.650     16.668
+REMARK  Name = molecules/AGPKZVBTJJNPAG-WHFBIAKZSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  ILE A  1       17.521 -34.777   7.456  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   ILE A  1       18.813 -34.382   7.910  0.00  0.00    -0.318 NA
+ATOM      3  H1  ILE A  1       19.118 -35.036   8.662  0.00  0.00    +0.119 HD
+ATOM      4  H2  ILE A  1       18.817 -33.424   8.323  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  CB  ILE A  1       17.199 -36.221   7.694  0.00  0.00    +0.013 C 
+ATOM      6  CG2 ILE A  1       16.364 -36.720   6.532  0.00  0.00    +0.009 C 
+BRANCH   5   8
+ATOM      7  CD1 ILE A  1       18.770 -37.691   6.433  0.00  0.00    +0.004 C 
+ATOM      8  CG1 ILE A  1       18.419 -37.100   7.789  0.00  0.00    +0.002 C 
+ENDBRANCH   5   8
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  C   ILE A  1       16.494 -33.967   8.160  0.00  0.00    +0.322 C 
+ATOM     10  OXT ILE A  1       15.970 -34.318   9.255  0.00  0.00    -0.249 OA
+BRANCH   9  11
+ATOM     11  O   ILE A  1       16.060 -32.763   7.628  0.00  0.00    -0.480 OA
+ATOM     12  H   ILE A  1       16.148 -31.920   8.181  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.6     19.350     20.070
+REMARK  Name = molecules/AGPKZVBTJJNPAG-WHFBIAKZSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  ILE A  1       -0.452 -24.804  11.013  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   ILE A  1       -0.719 -23.432  11.294  0.00  0.00    -0.318 NA
+ATOM      3  H1  ILE A  1       -1.523 -23.377  11.955  0.00  0.00    +0.119 HD
+ATOM      4  H2  ILE A  1       -0.991 -22.895  10.442  0.00  0.00    +0.119 HD
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  CB  ILE A  1       -0.026 -25.072   9.601  0.00  0.00    +0.013 C 
+ATOM      6  CG2 ILE A  1       -0.976 -26.089   9.002  0.00  0.00    +0.009 C 
+BRANCH   5   8
+ATOM      7  CD1 ILE A  1        1.329 -23.529   8.184  0.00  0.00    +0.004 C 
+ATOM      8  CG1 ILE A  1       -0.057 -23.848   8.723  0.00  0.00    +0.002 C 
+ENDBRANCH   5   8
+ENDBRANCH   1   5
+BRANCH   1   9
+ATOM      9  C   ILE A  1        0.636 -25.277  11.906  0.00  0.00    +0.322 C 
+ATOM     10  OXT ILE A  1        1.355 -24.496  12.591  0.00  0.00    -0.249 OA
+BRANCH   9  11
+ATOM     11  O   ILE A  1        0.911 -26.630  12.024  0.00  0.00    -0.480 OA
+ATOM     12  H   ILE A  1        0.146 -27.292  12.003  0.00  0.00    +0.295 HD
+ENDBRANCH   9  11
+ENDBRANCH   1   9
+TORSDOF 5
+ENDMDL
