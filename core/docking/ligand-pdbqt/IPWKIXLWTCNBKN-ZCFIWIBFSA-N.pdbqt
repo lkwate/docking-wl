@@ -1,0 +1,31 @@
+REMARK  Name = molecules/IPWKIXLWTCNBKN-ZCFIWIBFSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1       -1.571  -1.157   0.218  0.00  0.00    +0.216 A 
+ATOM      2  N   LIG    1       -0.860  -0.022   0.216  0.00  0.00    -0.307 N 
+ATOM      3  C   LIG    1       -1.591   0.977  -0.334  0.00  0.00    +0.108 A 
+ATOM      4  C   LIG    1       -1.202   2.394  -0.537  0.00  0.00    +0.086 C 
+ATOM      5  N   LIG    1       -2.779   0.462  -0.685  0.00  0.00    -0.239 NA
+ATOM      6  C   LIG    1       -2.804  -0.842  -0.363  0.00  0.00    +0.164 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  N   LIG    1       -1.221  -2.440   0.701  0.00  0.00    +0.075 N 
+ATOM      8  O   LIG    1       -0.144  -2.740   1.239  0.00  0.00    -0.125 OA
+ATOM      9  O   LIG    1       -2.128  -3.490   0.602  0.00  0.00    -0.125 OA
+ENDBRANCH   1   7
+BRANCH   2  10
+ATOM     10  C   LIG    1        0.476   0.172   0.719  0.00  0.00    +0.157 C 
+BRANCH  10  11
+ATOM     11  C   LIG    1        1.557   0.023  -0.319  0.00  0.00    +0.149 C 
+BRANCH  11  12
+ATOM     12  C   LIG    1        2.881   0.261   0.423  0.00  0.00    +0.141 C 
+ATOM     13 CL   LIG    1        4.250   0.114  -0.691  0.00  0.00    -0.123 Cl
+ENDBRANCH  11  12
+BRANCH  11  14
+ATOM     14  O   LIG    1        1.536  -1.271  -0.815  0.00  0.00    -0.389 OA
+ATOM     15  H   LIG    1        2.061  -1.391  -1.641  0.00  0.00    +0.210 HD
+ENDBRANCH  11  14
+ENDBRANCH  10  11
+ENDBRANCH   2  10
+TORSDOF 5

@@ -1,0 +1,30 @@
+REMARK  Name = molecules/AJOQSQHYDOFIOX-SECBINFHSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1        0.063   0.051  -0.763  0.00  0.00    +0.105 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   LIG    1        1.165  -0.325   0.148  0.00  0.00    +0.228 C 
+ATOM      3  O   LIG    1        0.917  -1.093   1.103  0.00  0.00    -0.275 OA
+ATOM      4  N   LIG    1        2.479   0.162  -0.037  0.00  0.00    -0.240 N 
+ATOM      5  C   LIG    1        3.523  -0.213   0.852  0.00  0.00    +0.303 C 
+ATOM      6  O   LIG    1        3.315  -0.984   1.823  0.00  0.00    -0.253 OA
+ATOM      7  N   LIG    1        4.848   0.272   0.673  0.00  0.00    -0.313 N 
+ATOM      8  H   LIG    1        5.087   1.290   0.692  0.00  0.00    +0.146 HD
+ATOM      9  H   LIG    1        5.647  -0.381   0.512  0.00  0.00    +0.146 HD
+ATOM     10  H   LIG    1        2.701   0.804  -0.829  0.00  0.00    +0.159 HD
+ENDBRANCH   1   2
+BRANCH   1  11
+ATOM     11  C   LIG    1       -1.208  -0.570  -0.379  0.00  0.00    -0.036 A 
+ATOM     12  C   LIG    1       -1.828  -0.384   0.827  0.00  0.00    +0.004 A 
+ATOM     13  C   LIG    1       -3.031  -0.996   1.149  0.00  0.00    +0.000 A 
+ATOM     14  C   LIG    1       -3.661  -1.830   0.253  0.00  0.00    +0.000 A 
+ATOM     15  C   LIG    1       -3.056  -2.032  -0.966  0.00  0.00    +0.000 A 
+ATOM     16  C   LIG    1       -1.861  -1.419  -1.275  0.00  0.00    +0.004 A 
+ENDBRANCH   1  11
+BRANCH   1  17
+ATOM     17  C   LIG    1       -0.013   1.550  -0.966  0.00  0.00    +0.014 C 
+ATOM     18  C   LIG    1       -0.241   2.329   0.287  0.00  0.00    +0.005 C 
+ENDBRANCH   1  17
+TORSDOF 3

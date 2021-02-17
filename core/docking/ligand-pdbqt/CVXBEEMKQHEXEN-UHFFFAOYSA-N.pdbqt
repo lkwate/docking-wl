@@ -1,0 +1,26 @@
+REMARK  Name = molecules/CVXBEEMKQHEXEN-UHFFFAOYSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1        0.061   0.798   0.582  0.00  0.00    +0.141 A 
+ATOM      2  C   LIG    1       -0.157   2.160   0.527  0.00  0.00    +0.047 A 
+ATOM      3  C   LIG    1       -1.412   2.679   0.286  0.00  0.00    +0.004 A 
+ATOM      4  C   LIG    1       -2.492   1.850   0.093  0.00  0.00    +0.009 A 
+ATOM      5  C   LIG    1       -2.296   0.485   0.144  0.00  0.00    -0.014 A 
+ATOM      6  C   LIG    1       -3.390  -0.355  -0.052  0.00  0.00    +0.008 A 
+ATOM      7  C   LIG    1       -3.214  -1.712  -0.005  0.00  0.00    +0.001 A 
+ATOM      8  C   LIG    1       -1.963  -2.212   0.235  0.00  0.00    +0.001 A 
+ATOM      9  C   LIG    1       -0.870  -1.403   0.431  0.00  0.00    +0.012 A 
+ATOM     10  C   LIG    1       -1.028  -0.023   0.387  0.00  0.00    +0.025 A 
+ENDROOT
+BRANCH   1  11
+ATOM     11  O   LIG    1        1.347   0.299   0.828  0.00  0.00    -0.411 OA
+BRANCH  11  15
+ATOM     12  C   LIG    1        4.428  -0.750  -1.048  0.00  0.00    +0.131 C 
+ATOM     13  N   LIG    1        3.532  -0.479   0.059  0.00  0.00    -0.284 N 
+ATOM     14  H   LIG    1        3.833  -0.651   1.043  0.00  0.00    +0.152 HD
+ATOM     15  C   LIG    1        2.231   0.027  -0.191  0.00  0.00    +0.405 C 
+ATOM     16  O   LIG    1        1.843   0.244  -1.369  0.00  0.00    -0.226 OA
+ENDBRANCH  11  15
+ENDBRANCH   1  11
+TORSDOF 2

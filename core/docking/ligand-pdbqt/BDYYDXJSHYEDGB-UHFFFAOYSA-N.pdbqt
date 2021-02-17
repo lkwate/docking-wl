@@ -1,0 +1,37 @@
+REMARK  Name = molecules/BDYYDXJSHYEDGB-UHFFFAOYSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1       -1.883  -0.222  -0.097  0.00  0.00    +0.036 A 
+ATOM      2  C   LIG    1       -1.157  -0.782   0.936  0.00  0.00    +0.027 A 
+ATOM      3  C   LIG    1        0.205  -0.531   1.034  0.00  0.00    +0.048 A 
+ATOM      4  C   LIG    1        0.863   0.275   0.113  0.00  0.00    +0.132 A 
+ATOM      5  C   LIG    1        0.110   0.815  -0.902  0.00  0.00    +0.048 A 
+ATOM      6  C   LIG    1       -1.264   0.566  -1.007  0.00  0.00    +0.027 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  N   LIG    1       -3.287  -0.444  -0.236  0.00  0.00    -0.272 N 
+ATOM      8  C   LIG    1       -4.212   0.628  -0.148  0.00  0.00    +0.252 C 
+ATOM      9  O   LIG    1       -3.745   1.780   0.031  0.00  0.00    -0.272 OA
+ATOM     10  C   LIG    1       -3.715  -1.813  -0.471  0.00  0.00    +0.138 C 
+BRANCH   8  11
+ATOM     11  C   LIG    1       -5.676   0.425  -0.259  0.00  0.00    +0.257 C 
+ATOM     12 CL   LIG    1       -6.305  -0.634   1.036  0.00  0.00    -0.094 Cl
+ATOM     13 CL   LIG    1       -6.494   2.003  -0.079  0.00  0.00    -0.094 Cl
+ENDBRANCH   8  11
+ENDBRANCH   1   7
+BRANCH   4  14
+ATOM     14  O   LIG    1        2.213   0.556   0.171  0.00  0.00    -0.420 OA
+BRANCH  14  15
+ATOM     15  C   LIG    1        3.170  -0.289  -0.358  0.00  0.00    +0.380 C 
+ATOM     16  O   LIG    1        2.782  -1.344  -0.907  0.00  0.00    -0.241 OA
+BRANCH  15  17
+ATOM     17  C   LIG    1        4.604   0.057  -0.271  0.00  0.00    +0.212 A 
+ATOM     18  C   LIG    1        5.078   1.218   0.323  0.00  0.00    +0.056 A 
+ATOM     19  C   LIG    1        6.453   1.176   0.206  0.00  0.00    +0.042 A 
+ATOM     20  C   LIG    1        6.740  -0.010  -0.452  0.00  0.00    +0.196 A 
+ATOM     21  O   LIG    1        5.622  -0.633  -0.712  0.00  0.00    -0.456 OA
+ENDBRANCH  15  17
+ENDBRANCH  14  15
+ENDBRANCH   4  14
+TORSDOF 5

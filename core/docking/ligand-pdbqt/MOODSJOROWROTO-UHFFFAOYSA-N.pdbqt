@@ -1,0 +1,32 @@
+REMARK  Name = molecules/MOODSJOROWROTO-UHFFFAOYSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1       -1.028  -0.072  -0.488  0.00  0.00    +0.103 A 
+ATOM      2  C   LIG    1       -0.055   0.257   0.458  0.00  0.00    +0.173 A 
+ATOM      3  C   LIG    1        0.029   1.556   0.920  0.00  0.00    +0.049 A 
+ATOM      4  C   LIG    1       -0.815   2.557   0.485  0.00  0.00    +0.004 A 
+ATOM      5  C   LIG    1       -1.778   2.230  -0.452  0.00  0.00    +0.001 A 
+ATOM      6  C   LIG    1       -1.869   0.931  -0.921  0.00  0.00    +0.019 A 
+ENDROOT
+BRANCH   1   7
+ATOM      7  C   LIG    1       -1.138  -1.434  -0.993  0.00  0.00    +0.340 C 
+ATOM      8  O   LIG    1       -2.029  -1.681  -1.842  0.00  0.00    -0.245 OA
+BRANCH   7   9
+ATOM      9  O   LIG    1       -0.299  -2.449  -0.565  0.00  0.00    -0.477 OA
+ATOM     10  H   LIG    1       -0.702  -3.081   0.144  0.00  0.00    +0.295 HD
+ENDBRANCH   7   9
+ENDBRANCH   1   7
+BRANCH   2  11
+ATOM     11  O   LIG    1        0.800  -0.744   0.903  0.00  0.00    -0.324 OA
+BRANCH  11  12
+ATOM     12  S   LIG    1        2.241  -1.012   0.088  0.00  0.00    +0.251 S 
+ATOM     13  O   LIG    1        3.381  -0.233   0.726  0.00  0.00    -0.108 OA
+ATOM     14  O   LIG    1        2.074  -0.566  -1.337  0.00  0.00    -0.108 OA
+BRANCH  12  15
+ATOM     15  O   LIG    1        2.715  -2.638   0.154  0.00  0.00    -0.222 OA
+ATOM     16  H   LIG    1        3.487  -2.714  -0.463  0.00  0.00    +0.248 HD
+ENDBRANCH  12  15
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+TORSDOF 5
