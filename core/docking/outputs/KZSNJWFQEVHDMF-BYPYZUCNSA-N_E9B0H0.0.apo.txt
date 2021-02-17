@@ -1,0 +1,252 @@
+MODEL 1
+REMARK VINA RESULT:      -4.1      0.000      0.000
+REMARK  Name = molecules/KZSNJWFQEVHDMF-BYPYZUCNSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  VAL A  1        4.170 -41.008  -0.090  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  CG2 VAL A  1        2.444 -42.550   0.888  0.00  0.00    +0.009 C 
+ATOM      3  CB  VAL A  1        2.700 -41.324   0.087  0.00  0.00    +0.010 C 
+ATOM      4  CG1 VAL A  1        1.975 -41.321  -1.252  0.00  0.00    +0.009 C 
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  N   VAL A  1        4.657 -41.903  -1.120  0.00  0.00    -0.318 NA
+ATOM      6  H1  VAL A  1        5.607 -41.700  -1.433  0.00  0.00    +0.119 HD
+ATOM      7  H2  VAL A  1        4.441 -42.890  -0.944  0.00  0.00    +0.119 HD
+ENDBRANCH   1   5
+BRANCH   1   8
+ATOM      8  C   VAL A  1        4.943 -41.064   1.135  0.00  0.00    +0.322 C 
+ATOM      9  O   VAL A  1        5.904 -41.852   1.252  0.00  0.00    -0.249 OA
+BRANCH   8  10
+ATOM     10  OXT VAL A  1        4.648 -40.256   2.213  0.00  0.00    -0.480 OA
+ATOM     11  HXT VAL A  1        3.863 -40.469   2.820  0.00  0.00    +0.295 HD
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.0     14.540     15.205
+REMARK  Name = molecules/KZSNJWFQEVHDMF-BYPYZUCNSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  VAL A  1       13.528 -40.508 -10.682  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  CG2 VAL A  1       13.739 -39.329 -12.891  0.00  0.00    +0.009 C 
+ATOM      3  CB  VAL A  1       13.342 -40.575 -12.183  0.00  0.00    +0.010 C 
+ATOM      4  CG1 VAL A  1       11.939 -41.045 -12.540  0.00  0.00    +0.009 C 
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  N   VAL A  1       14.450 -39.417 -10.435  0.00  0.00    -0.318 NA
+ATOM      6  H1  VAL A  1       14.028 -38.491 -10.507  0.00  0.00    +0.119 HD
+ATOM      7  H2  VAL A  1       15.065 -39.571  -9.629  0.00  0.00    +0.119 HD
+ENDBRANCH   1   5
+BRANCH   1   8
+ATOM      8  C   VAL A  1       13.940 -41.759 -10.077  0.00  0.00    +0.322 C 
+ATOM      9  O   VAL A  1       13.103 -42.639  -9.789  0.00  0.00    -0.249 OA
+BRANCH   8  10
+ATOM     10  OXT VAL A  1       15.264 -42.026  -9.797  0.00  0.00    -0.480 OA
+ATOM     11  HXT VAL A  1       15.615 -41.961  -8.847  0.00  0.00    +0.295 HD
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -3.9      1.563      2.099
+REMARK  Name = molecules/KZSNJWFQEVHDMF-BYPYZUCNSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  VAL A  1        3.862 -41.778  -1.053  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  CG2 VAL A  1        1.407 -41.705  -1.585  0.00  0.00    +0.009 C 
+ATOM      3  CB  VAL A  1        2.741 -41.083  -1.797  0.00  0.00    +0.010 C 
+ATOM      4  CG1 VAL A  1        3.090 -40.902  -3.267  0.00  0.00    +0.009 C 
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  N   VAL A  1        3.380 -43.108  -0.741  0.00  0.00    -0.318 NA
+ATOM      6  H1  VAL A  1        3.397 -43.336   0.253  0.00  0.00    +0.119 HD
+ATOM      7  H2  VAL A  1        2.526 -43.366  -1.248  0.00  0.00    +0.119 HD
+ENDBRANCH   1   5
+BRANCH   1   8
+ATOM      8  C   VAL A  1        4.346 -41.054   0.106  0.00  0.00    +0.322 C 
+ATOM      9  O   VAL A  1        3.564 -40.693   1.009  0.00  0.00    -0.249 OA
+BRANCH   8  10
+ATOM     10  OXT VAL A  1        5.680 -40.738   0.256  0.00  0.00    -0.480 OA
+ATOM     11  HXT VAL A  1        5.975 -39.770   0.341  0.00  0.00    +0.295 HD
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -3.9     15.180     16.304
+REMARK  Name = molecules/KZSNJWFQEVHDMF-BYPYZUCNSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  VAL A  1       18.200 -36.438   6.479  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  CG2 VAL A  1       16.780 -37.961   7.886  0.00  0.00    +0.009 C 
+ATOM      3  CB  VAL A  1       16.818 -36.991   6.760  0.00  0.00    +0.010 C 
+ATOM      4  CG1 VAL A  1       16.173 -37.524   5.488  0.00  0.00    +0.009 C 
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  N   VAL A  1       19.111 -37.563   6.555  0.00  0.00    -0.318 NA
+ATOM      6  H1  VAL A  1       19.584 -37.656   7.454  0.00  0.00    +0.119 HD
+ATOM      7  H2  VAL A  1       18.732 -38.427   6.153  0.00  0.00    +0.119 HD
+ENDBRANCH   1   5
+BRANCH   1   8
+ATOM      8  C   VAL A  1       18.581 -35.329   7.330  0.00  0.00    +0.322 C 
+ATOM      9  O   VAL A  1       18.240 -34.160   7.054  0.00  0.00    -0.249 OA
+BRANCH   8  10
+ATOM     10  OXT VAL A  1       19.331 -35.518   8.472  0.00  0.00    -0.480 OA
+ATOM     11  HXT VAL A  1       18.954 -36.040   9.257  0.00  0.00    +0.295 HD
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -3.8     16.571     17.171
+REMARK  Name = molecules/KZSNJWFQEVHDMF-BYPYZUCNSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  VAL A  1       11.105 -56.451   1.017  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  CG2 VAL A  1       12.191 -55.908  -1.183  0.00  0.00    +0.009 C 
+ATOM      3  CB  VAL A  1       11.895 -56.957  -0.172  0.00  0.00    +0.010 C 
+ATOM      4  CG1 VAL A  1       11.249 -58.199  -0.770  0.00  0.00    +0.009 C 
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  N   VAL A  1       10.804 -55.061   0.742  0.00  0.00    -0.318 NA
+ATOM      6  H1  VAL A  1       10.793 -54.825  -0.251  0.00  0.00    +0.119 HD
+ATOM      7  H2  VAL A  1       10.030 -54.688   1.303  0.00  0.00    +0.119 HD
+ENDBRANCH   1   5
+BRANCH   1   8
+ATOM      8  C   VAL A  1       11.756 -56.659   2.295  0.00  0.00    +0.322 C 
+ATOM      9  O   VAL A  1       11.749 -57.781   2.844  0.00  0.00    -0.249 OA
+BRANCH   8  10
+ATOM     10  OXT VAL A  1       12.403 -55.634   2.952  0.00  0.00    -0.480 OA
+ATOM     11  HXT VAL A  1       12.537 -55.668   3.958  0.00  0.00    +0.295 HD
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -3.7     16.806     17.390
+REMARK  Name = molecules/KZSNJWFQEVHDMF-BYPYZUCNSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  VAL A  1       11.565 -56.566   0.504  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  CG2 VAL A  1        9.446 -57.869   0.860  0.00  0.00    +0.009 C 
+ATOM      3  CB  VAL A  1       10.910 -57.792   1.106  0.00  0.00    +0.010 C 
+ATOM      4  CG1 VAL A  1       11.279 -57.943   2.575  0.00  0.00    +0.009 C 
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  N   VAL A  1       10.708 -55.445   0.834  0.00  0.00    -0.318 NA
+ATOM      6  H1  VAL A  1        9.723 -55.594   0.610  0.00  0.00    +0.119 HD
+ATOM      7  H2  VAL A  1       10.904 -55.032   1.751  0.00  0.00    +0.119 HD
+ENDBRANCH   1   5
+BRANCH   1   8
+ATOM      8  C   VAL A  1       11.848 -56.679  -0.913  0.00  0.00    +0.322 C 
+ATOM      9  O   VAL A  1       12.055 -57.791  -1.440  0.00  0.00    -0.249 OA
+BRANCH   8  10
+ATOM     10  OXT VAL A  1       11.899 -55.569  -1.730  0.00  0.00    -0.480 OA
+ATOM     11  HXT VAL A  1       11.627 -54.656  -1.380  0.00  0.00    +0.295 HD
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.6     10.920     11.811
+REMARK  Name = molecules/KZSNJWFQEVHDMF-BYPYZUCNSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  VAL A  1       -3.895 -32.970  -3.836  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  CG2 VAL A  1       -6.121 -34.126  -3.985  0.00  0.00    +0.009 C 
+ATOM      3  CB  VAL A  1       -4.700 -34.113  -4.420  0.00  0.00    +0.010 C 
+ATOM      4  CG1 VAL A  1       -3.995 -35.445  -4.206  0.00  0.00    +0.009 C 
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  N   VAL A  1       -2.798 -32.736  -4.754  0.00  0.00    -0.318 NA
+ATOM      6  H1  VAL A  1       -3.027 -32.105  -5.524  0.00  0.00    +0.119 HD
+ATOM      7  H2  VAL A  1       -1.899 -32.572  -4.290  0.00  0.00    +0.119 HD
+ENDBRANCH   1   5
+BRANCH   1   8
+ATOM      8  C   VAL A  1       -3.466 -33.184  -2.468  0.00  0.00    +0.322 C 
+ATOM      9  O   VAL A  1       -4.169 -32.804  -1.509  0.00  0.00    -0.249 OA
+BRANCH   8  10
+ATOM     10  OXT VAL A  1       -2.273 -33.810  -2.174  0.00  0.00    -0.480 OA
+ATOM     11  HXT VAL A  1       -1.842 -33.699  -1.261  0.00  0.00    +0.295 HD
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.5     13.799     15.070
+REMARK  Name = molecules/KZSNJWFQEVHDMF-BYPYZUCNSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  VAL A  1       17.109 -37.871   6.445  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  CG2 VAL A  1       17.160 -35.523   7.341  0.00  0.00    +0.009 C 
+ATOM      3  CB  VAL A  1       16.753 -36.933   7.580  0.00  0.00    +0.010 C 
+ATOM      4  CG1 VAL A  1       17.243 -37.479   8.915  0.00  0.00    +0.009 C 
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  N   VAL A  1       18.389 -37.423   5.934  0.00  0.00    -0.318 NA
+ATOM      6  H1  VAL A  1       19.170 -38.034   6.175  0.00  0.00    +0.119 HD
+ATOM      7  H2  VAL A  1       18.354 -37.097   4.963  0.00  0.00    +0.119 HD
+ENDBRANCH   1   5
+BRANCH   1   8
+ATOM      8  C   VAL A  1       16.087 -37.982   5.423  0.00  0.00    +0.322 C 
+ATOM      9  O   VAL A  1       16.286 -37.554   4.268  0.00  0.00    -0.249 OA
+BRANCH   8  10
+ATOM     10  OXT VAL A  1       14.863 -38.561   5.685  0.00  0.00    -0.480 OA
+ATOM     11  HXT VAL A  1       14.796 -39.548   5.912  0.00  0.00    +0.295 HD
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.5     14.231     14.898
+REMARK  Name = molecules/KZSNJWFQEVHDMF-BYPYZUCNSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  VAL A  1       -8.773 -35.828   5.798  0.00  0.00    +0.163 C 
+ENDROOT
+BRANCH   1   3
+ATOM      2  CG2 VAL A  1       -8.841 -37.675   7.501  0.00  0.00    +0.009 C 
+ATOM      3  CB  VAL A  1       -8.034 -36.965   6.473  0.00  0.00    +0.010 C 
+ATOM      4  CG1 VAL A  1       -6.677 -36.506   6.989  0.00  0.00    +0.009 C 
+ENDBRANCH   1   3
+BRANCH   1   5
+ATOM      5  N   VAL A  1      -10.040 -35.700   6.490  0.00  0.00    -0.318 NA
+ATOM      6  H1  VAL A  1      -10.531 -36.584   6.627  0.00  0.00    +0.119 HD
+ATOM      7  H2  VAL A  1      -10.006 -35.072   7.300  0.00  0.00    +0.119 HD
+ENDBRANCH   1   5
+BRANCH   1   8
+ATOM      8  C   VAL A  1       -8.911 -35.978   4.363  0.00  0.00    +0.322 C 
+ATOM      9  O   VAL A  1       -9.941 -35.589   3.774  0.00  0.00    -0.249 OA
+BRANCH   8  10
+ATOM     10  OXT VAL A  1       -7.919 -36.551   3.597  0.00  0.00    -0.480 OA
+ATOM     11  HXT VAL A  1       -6.940 -36.382   3.808  0.00  0.00    +0.295 HD
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 4
+ENDMDL
