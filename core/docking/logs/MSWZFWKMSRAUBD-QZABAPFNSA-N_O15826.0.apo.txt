@@ -13,6 +13,25 @@
 #################################################################
 
 WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
-Detected 8 CPUs
+Detected 16 CPUs
+WARNING: at low exhaustiveness, it may be impossible to utilize all CPUs
 Reading input ... done.
-Setting up the scoring function ... 
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: -477502634
+Performing search ... done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -5.0      0.000      0.000
+   2         -4.9     20.924     21.830
+   3         -4.8     21.893     22.732
+   4         -4.8     35.788     36.614
+   5         -4.8     34.507     35.475
+   6         -4.6     34.035     35.044
+   7         -4.5     36.331     37.149
+   8         -4.5     35.792     36.598
+   9         -4.5     36.085     36.616
+Writing output ... done.
