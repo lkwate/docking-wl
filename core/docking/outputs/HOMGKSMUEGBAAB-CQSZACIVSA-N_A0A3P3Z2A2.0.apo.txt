@@ -1,0 +1,306 @@
+MODEL 1
+REMARK VINA RESULT:      -4.9      0.000      0.000
+REMARK  Name = molecules/HOMGKSMUEGBAAB-CQSZACIVSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   LIG    1       13.880  11.743  14.509  0.00  0.00    -0.218 NA
+ATOM      2  P   LIG    1       14.220  11.167  16.126  0.00  0.00    +0.346 P 
+ATOM      3  O   LIG    1       14.183  12.305  17.134  0.00  0.00    -0.254 OA
+ATOM      4  O   LIG    1       15.816  10.534  16.021  0.00  0.00    -0.305 OA
+ATOM      5  C   LIG    1       15.782   9.819  14.813  0.00  0.00    +0.171 C 
+ATOM      6  C   LIG    1       15.869  10.746  13.640  0.00  0.00    +0.044 C 
+ATOM      7  C   LIG    1       15.203  12.074  13.937  0.00  0.00    +0.097 C 
+ENDROOT
+BRANCH   2   8
+ATOM      8  N   LIG    1       13.191   9.843  16.552  0.00  0.00    -0.231 NA
+ATOM      9  H   LIG    1       12.204  10.118  16.733  0.00  0.00    +0.133 HD
+BRANCH   8  10
+ATOM     10  C   LIG    1       13.670   9.230  17.816  0.00  0.00    +0.107 C 
+BRANCH  10  11
+ATOM     11  C   LIG    1       12.512   9.492  18.820  0.00  0.00    +0.124 C 
+ATOM     12 CL   LIG    1       13.026  10.722  19.997  0.00  0.00    -0.124 Cl
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   2   8
+BRANCH   1  13
+ATOM     13  C   LIG    1       13.115  12.974  14.682  0.00  0.00    +0.110 C 
+BRANCH  13  14
+ATOM     14  C   LIG    1       13.696  14.163  13.997  0.00  0.00    +0.124 C 
+ATOM     15 CL   LIG    1       12.563  15.535  14.285  0.00  0.00    -0.124 Cl
+ENDBRANCH  13  14
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.8     19.374     21.171
+REMARK  Name = molecules/HOMGKSMUEGBAAB-CQSZACIVSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   LIG    1        8.206  -9.267  16.000  0.00  0.00    -0.218 NA
+ATOM      2  P   LIG    1        9.104  -7.815  15.614  0.00  0.00    +0.346 P 
+ATOM      3  O   LIG    1       10.558  -8.133  15.304  0.00  0.00    -0.254 OA
+ATOM      4  O   LIG    1        9.007  -6.866  17.047  0.00  0.00    -0.305 OA
+ATOM      5  C   LIG    1        7.658  -7.006  17.415  0.00  0.00    +0.171 C 
+ATOM      6  C   LIG    1        7.414  -8.338  18.053  0.00  0.00    +0.044 C 
+ATOM      7  C   LIG    1        8.318  -9.404  17.469  0.00  0.00    +0.097 C 
+ENDROOT
+BRANCH   2   8
+ATOM      8  N   LIG    1        8.322  -6.905  14.367  0.00  0.00    -0.231 NA
+ATOM      9  H   LIG    1        8.161  -5.907  14.611  0.00  0.00    +0.133 HD
+BRANCH   8  10
+ATOM     10  C   LIG    1        6.974  -7.472  14.112  0.00  0.00    +0.107 C 
+BRANCH  10  11
+ATOM     11  C   LIG    1        6.111  -6.233  13.745  0.00  0.00    +0.124 C 
+ATOM     12 CL   LIG    1        7.176  -4.917  13.201  0.00  0.00    -0.124 Cl
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   2   8
+BRANCH   1  13
+ATOM     13  C   LIG    1        8.934 -10.360  15.364  0.00  0.00    +0.110 C 
+BRANCH  13  14
+ATOM     14  C   LIG    1        8.436 -10.727  14.008  0.00  0.00    +0.124 C 
+ATOM     15 CL   LIG    1        8.705 -12.499  13.815  0.00  0.00    -0.124 Cl
+ENDBRANCH  13  14
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.7     15.017     16.308
+REMARK  Name = molecules/HOMGKSMUEGBAAB-CQSZACIVSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   LIG    1        3.836   0.202  17.553  0.00  0.00    -0.218 NA
+ATOM      2  P   LIG    1        2.297   0.962  17.894  0.00  0.00    +0.346 P 
+ATOM      3  O   LIG    1        2.160   1.288  19.372  0.00  0.00    -0.254 OA
+ATOM      4  O   LIG    1        1.133  -0.225  17.448  0.00  0.00    -0.305 OA
+ATOM      5  C   LIG    1        1.637  -0.703  16.227  0.00  0.00    +0.171 C 
+ATOM      6  C   LIG    1        2.785  -1.638  16.452  0.00  0.00    +0.044 C 
+ATOM      7  C   LIG    1        3.580  -1.249  17.681  0.00  0.00    +0.097 C 
+ENDROOT
+BRANCH   2   8
+ATOM      8  N   LIG    1        2.028   2.327  16.865  0.00  0.00    -0.231 NA
+ATOM      9  H   LIG    1        1.182   2.241  16.264  0.00  0.00    +0.133 HD
+BRANCH   8  10
+ATOM     10  C   LIG    1        3.168   2.471  15.926  0.00  0.00    +0.107 C 
+BRANCH  10  11
+ATOM     11  C   LIG    1        2.491   2.777  14.560  0.00  0.00    +0.124 C 
+ATOM     12 CL   LIG    1        2.728   1.397  13.466  0.00  0.00    -0.124 Cl
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   2   8
+BRANCH   1  13
+ATOM     13  C   LIG    1        4.729   0.624  18.627  0.00  0.00    +0.110 C 
+BRANCH  13  14
+ATOM     14  C   LIG    1        5.300  -0.493  19.430  0.00  0.00    +0.124 C 
+ATOM     15 CL   LIG    1        4.634  -0.331  21.097  0.00  0.00    -0.124 Cl
+ENDBRANCH  13  14
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.6     17.174     18.399
+REMARK  Name = molecules/HOMGKSMUEGBAAB-CQSZACIVSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   LIG    1       11.857  -2.397  26.442  0.00  0.00    -0.218 NA
+ATOM      2  P   LIG    1       10.134  -2.148  26.619  0.00  0.00    +0.346 P 
+ATOM      3  O   LIG    1        9.424  -2.235  25.277  0.00  0.00    -0.254 OA
+ATOM      4  O   LIG    1       10.001  -0.551  27.246  0.00  0.00    -0.305 OA
+ATOM      5  C   LIG    1       11.008  -0.522  28.225  0.00  0.00    +0.171 C 
+ATOM      6  C   LIG    1       12.359  -0.368  27.597  0.00  0.00    +0.044 C 
+ATOM      7  C   LIG    1       12.418  -1.043  26.242  0.00  0.00    +0.097 C 
+ENDROOT
+BRANCH   2   8
+ATOM      8  N   LIG    1        9.466  -3.205  27.816  0.00  0.00    -0.231 NA
+ATOM      9  H   LIG    1        9.983  -3.199  28.718  0.00  0.00    +0.133 HD
+BRANCH   8  10
+ATOM     10  C   LIG    1        9.531  -4.606  27.330  0.00  0.00    +0.107 C 
+BRANCH  10  11
+ATOM     11  C   LIG    1        8.049  -4.966  27.029  0.00  0.00    +0.124 C 
+ATOM     12 CL   LIG    1        7.882  -5.362  25.305  0.00  0.00    -0.124 Cl
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   2   8
+BRANCH   1  13
+ATOM     13  C   LIG    1       12.019  -3.165  25.211  0.00  0.00    +0.110 C 
+BRANCH  13  14
+ATOM     14  C   LIG    1       13.043  -4.245  25.288  0.00  0.00    +0.124 C 
+ATOM     15 CL   LIG    1       14.566  -3.570  24.599  0.00  0.00    -0.124 Cl
+ENDBRANCH  13  14
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.6     18.846     20.147
+REMARK  Name = molecules/HOMGKSMUEGBAAB-CQSZACIVSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   LIG    1        8.433  -7.022  14.238  0.00  0.00    -0.218 NA
+ATOM      2  P   LIG    1        6.792  -7.376  14.732  0.00  0.00    +0.346 P 
+ATOM      3  O   LIG    1        6.419  -8.815  14.414  0.00  0.00    -0.254 OA
+ATOM      4  O   LIG    1        5.829  -6.303  13.793  0.00  0.00    -0.305 OA
+ATOM      5  C   LIG    1        6.542  -5.096  13.879  0.00  0.00    +0.171 C 
+ATOM      6  C   LIG    1        7.738  -5.117  12.978  0.00  0.00    +0.044 C 
+ATOM      7  C   LIG    1        8.312  -6.513  12.854  0.00  0.00    +0.097 C 
+ENDROOT
+BRANCH   2   8
+ATOM      8  N   LIG    1        6.529  -6.952  16.389  0.00  0.00    -0.231 NA
+ATOM      9  H   LIG    1        7.164  -6.205  16.738  0.00  0.00    +0.133 HD
+BRANCH   8  10
+ATOM     10  C   LIG    1        6.794  -8.132  17.250  0.00  0.00    +0.107 C 
+BRANCH  10  11
+ATOM     11  C   LIG    1        7.965  -7.672  18.163  0.00  0.00    +0.124 C 
+ATOM     12 CL   LIG    1        8.360  -5.977  17.800  0.00  0.00    -0.124 Cl
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   2   8
+BRANCH   1  13
+ATOM     13  C   LIG    1        9.122  -8.309  14.211  0.00  0.00    +0.110 C 
+BRANCH  13  14
+ATOM     14  C   LIG    1        9.946  -8.593  15.420  0.00  0.00    +0.124 C 
+ATOM     15 CL   LIG    1        9.500 -10.248  15.978  0.00  0.00    -0.124 Cl
+ENDBRANCH  13  14
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -4.5      8.361     10.368
+REMARK  Name = molecules/HOMGKSMUEGBAAB-CQSZACIVSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   LIG    1       18.987   2.555  16.755  0.00  0.00    -0.218 NA
+ATOM      2  P   LIG    1       19.553   4.183  17.057  0.00  0.00    +0.346 P 
+ATOM      3  O   LIG    1       20.950   4.393  16.497  0.00  0.00    -0.254 OA
+ATOM      4  O   LIG    1       19.587   4.306  18.773  0.00  0.00    -0.305 OA
+ATOM      5  C   LIG    1       18.375   3.703  19.146  0.00  0.00    +0.171 C 
+ATOM      6  C   LIG    1       18.472   2.211  19.061  0.00  0.00    +0.044 C 
+ATOM      7  C   LIG    1       19.402   1.782  17.946  0.00  0.00    +0.097 C 
+ENDROOT
+BRANCH   2   8
+ATOM      8  N   LIG    1       18.410   5.359  16.501  0.00  0.00    -0.231 NA
+ATOM      9  H   LIG    1       17.444   5.208  16.857  0.00  0.00    +0.133 HD
+BRANCH   8  10
+ATOM     10  C   LIG    1       18.304   5.284  15.022  0.00  0.00    +0.107 C 
+BRANCH  10  11
+ATOM     11  C   LIG    1       17.286   6.403  14.665  0.00  0.00    +0.124 C 
+ATOM     12 CL   LIG    1       17.053   7.457  16.077  0.00  0.00    -0.124 Cl
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   2   8
+BRANCH   1  13
+ATOM     13  C   LIG    1       19.741   2.085  15.597  0.00  0.00    +0.110 C 
+BRANCH  13  14
+ATOM     14  C   LIG    1       18.908   1.463  14.529  0.00  0.00    +0.124 C 
+ATOM     15 CL   LIG    1       19.096  -0.322  14.694  0.00  0.00    -0.124 Cl
+ENDBRANCH  13  14
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -4.4     28.792     29.740
+REMARK  Name = molecules/HOMGKSMUEGBAAB-CQSZACIVSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   LIG    1       41.103  -0.367  12.359  0.00  0.00    -0.218 NA
+ATOM      2  P   LIG    1       40.584   1.197  11.766  0.00  0.00    +0.346 P 
+ATOM      3  O   LIG    1       40.333   2.163  12.911  0.00  0.00    -0.254 OA
+ATOM      4  O   LIG    1       39.108   0.867  10.945  0.00  0.00    -0.305 OA
+ATOM      5  C   LIG    1       39.413  -0.300  10.225  0.00  0.00    +0.171 C 
+ATOM      6  C   LIG    1       39.402  -1.499  11.122  0.00  0.00    +0.044 C 
+ATOM      7  C   LIG    1       39.855  -1.143  12.523  0.00  0.00    +0.097 C 
+ENDROOT
+BRANCH   2   8
+ATOM      8  N   LIG    1       41.682   1.814  10.578  0.00  0.00    -0.231 NA
+ATOM      9  H   LIG    1       41.329   1.743   9.602  0.00  0.00    +0.133 HD
+BRANCH   8  10
+ATOM     10  C   LIG    1       42.937   1.022  10.605  0.00  0.00    +0.107 C 
+BRANCH  10  11
+ATOM     11  C   LIG    1       43.998   2.024  11.141  0.00  0.00    +0.124 C 
+ATOM     12 CL   LIG    1       43.283   3.650  11.218  0.00  0.00    -0.124 Cl
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   2   8
+BRANCH   1  13
+ATOM     13  C   LIG    1       41.684  -0.115  13.674  0.00  0.00    +0.110 C 
+BRANCH  13  14
+ATOM     14  C   LIG    1       40.930  -0.722  14.807  0.00  0.00    +0.124 C 
+ATOM     15 CL   LIG    1       41.074   0.417  16.198  0.00  0.00    -0.124 Cl
+ENDBRANCH  13  14
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -4.3     25.145     26.752
+REMARK  Name = molecules/HOMGKSMUEGBAAB-CQSZACIVSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   LIG    1        1.629   5.056  39.670  0.00  0.00    -0.218 NA
+ATOM      2  P   LIG    1        1.755   5.834  38.107  0.00  0.00    +0.346 P 
+ATOM      3  O   LIG    1        0.865   7.064  38.030  0.00  0.00    -0.254 OA
+ATOM      4  O   LIG    1        1.199   4.641  36.997  0.00  0.00    -0.305 OA
+ATOM      5  C   LIG    1        1.827   3.474  37.462  0.00  0.00    +0.171 C 
+ATOM      6  C   LIG    1        1.132   2.942  38.677  0.00  0.00    +0.044 C 
+ATOM      7  C   LIG    1        0.546   4.061  39.512  0.00  0.00    +0.097 C 
+ENDROOT
+BRANCH   2   8
+ATOM      8  N   LIG    1        3.406   6.157  37.697  0.00  0.00    -0.231 NA
+ATOM      9  H   LIG    1        3.693   5.773  36.774  0.00  0.00    +0.133 HD
+BRANCH   8  10
+ATOM     10  C   LIG    1        4.298   5.509  38.691  0.00  0.00    +0.107 C 
+BRANCH  10  11
+ATOM     11  C   LIG    1        5.428   6.553  38.914  0.00  0.00    +0.124 C 
+ATOM     12 CL   LIG    1        6.077   7.060  37.338  0.00  0.00    -0.124 Cl
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   2   8
+BRANCH   1  13
+ATOM     13  C   LIG    1        1.187   6.097  40.592  0.00  0.00    +0.110 C 
+BRANCH  13  14
+ATOM     14  C   LIG    1        2.166   6.425  41.667  0.00  0.00    +0.124 C 
+ATOM     15 CL   LIG    1        3.041   7.910  41.141  0.00  0.00    -0.124 Cl
+ENDBRANCH  13  14
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -4.3     28.364     29.670
+REMARK  Name = molecules/HOMGKSMUEGBAAB-CQSZACIVSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   LIG    1       41.886   0.082  11.252  0.00  0.00    -0.218 NA
+ATOM      2  P   LIG    1       40.531   1.188  11.189  0.00  0.00    +0.346 P 
+ATOM      3  O   LIG    1       40.936   2.521  10.580  0.00  0.00    -0.254 OA
+ATOM      4  O   LIG    1       40.090   1.410  12.837  0.00  0.00    -0.305 OA
+ATOM      5  C   LIG    1       40.147   0.102  13.347  0.00  0.00    +0.171 C 
+ATOM      6  C   LIG    1       41.564  -0.318  13.584  0.00  0.00    +0.044 C 
+ATOM      7  C   LIG    1       42.503   0.313  12.576  0.00  0.00    +0.097 C 
+ENDROOT
+BRANCH   2   8
+ATOM      8  N   LIG    1       39.166   0.466  10.406  0.00  0.00    -0.231 NA
+ATOM      9  H   LIG    1       38.373   0.260  11.048  0.00  0.00    +0.133 HD
+BRANCH   8  10
+ATOM     10  C   LIG    1       39.561  -0.844   9.832  0.00  0.00    +0.107 C 
+BRANCH  10  11
+ATOM     11  C   LIG    1       38.593  -1.855  10.507  0.00  0.00    +0.124 C 
+ATOM     12 CL   LIG    1       37.244  -0.967  11.251  0.00  0.00    -0.124 Cl
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   2   8
+BRANCH   1  13
+ATOM     13  C   LIG    1       42.808   0.530  10.214  0.00  0.00    +0.110 C 
+BRANCH  13  14
+ATOM     14  C   LIG    1       44.191   0.806  10.694  0.00  0.00    +0.124 C 
+ATOM     15 CL   LIG    1       44.378   2.598  10.746  0.00  0.00    -0.124 Cl
+ENDBRANCH  13  14
+ENDBRANCH   1  13
+TORSDOF 5
+ENDMDL
