@@ -12,5 +12,9 @@ sudo apt-get install -y openbabel
 * chimera : the instructions are described in [instructions](https://www.cgl.ucsf.edu/chimera/download.html)
 
 ## Deep Learning Ligand-Target Affinity Computation
-
+The ligand-target affinity computation consisted in the following steps:
+* ligand & target conversion using openbabel
+   * Ligand : From pdb to smiles
+   * Target : From pdb to Amino Acid Sequence
+* Binding-score computation : the Deepurpose pretrained models were used to figured out the affinity from the data (ligand & target) previously well converted. This [code](https://github.com/lkwate/docking-wl/blob/master/ML-binding-score-computation.ipynb) was used to carry out this operation.
 ## Molecular Docking
