@@ -27,3 +27,5 @@ In this part, we performed the following operations to realize the protein-ligan
   * [receptor preparation](http://autodock.scripps.edu/faqs-help/how-to/how-to-prepare-a-receptor-file-for-autodock4)
 * Once the ligand and receptor preparation completed, we moved first, on searching the binding pockets of the receptor then on computing the energy of the ligand-receptor pairs with ligand located in each of the most promising binding sites. This was done using [CB-Dock](http://clab.labshare.cn/cb-dock/php/manual.php) built on Autodock vina. The main added feature of CB-Dock is the computation of the receptor binding pocket, the remain work related to the docking entirely relies on Autodock (vina).
 * In the last step, we built the optimized pose (ligand-receptor) using [chimera](https://www.cgl.ucsf.edu/chimera/download.html) which readily output the optimized pose into pdb format for submission at the [indaba-grand-challenge-curing-leishmaniasis](https://zindi.africa/competitions/indaba-grand-challenge-curing-leishmaniasis)
+
+## Strategy for pose selection
