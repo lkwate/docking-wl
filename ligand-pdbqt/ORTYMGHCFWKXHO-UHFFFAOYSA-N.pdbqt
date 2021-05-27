@@ -1,0 +1,23 @@
+REMARK  Name = molecules/ORTYMGHCFWKXHO-UHFFFAOYSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1        0.081   0.058  -0.048  0.00  0.00    +0.081 C 
+ATOM      2  C   LIG    1        0.835   0.327   1.210  0.00  0.00    +0.231 C 
+ATOM      3  O   LIG    1        0.162   0.682   2.212  0.00  0.00    -0.275 OA
+ATOM      4  N   LIG    1        2.225   0.211   1.343  0.00  0.00    -0.221 N 
+ATOM      5  H   LIG    1        2.742   0.494   2.209  0.00  0.00    +0.161 HD
+ATOM      6  C   LIG    1        2.972  -0.319   0.244  0.00  0.00    +0.407 C 
+ATOM      7  O   LIG    1        4.220  -0.459   0.273  0.00  0.00    -0.226 OA
+ATOM      8  O   LIG    1        2.239  -0.678  -0.879  0.00  0.00    -0.449 OA
+ATOM      9  C   LIG    1        1.067  -0.006  -1.222  0.00  0.00    +0.250 C 
+ENDROOT
+BRANCH   1  10
+ATOM     10  C   LIG    1       -0.612  -1.241   0.136  0.00  0.00    +0.016 C 
+ATOM     11  C   LIG    1       -1.431  -1.721  -1.017  0.00  0.00    +0.005 C 
+ENDBRANCH   1  10
+BRANCH   1  12
+ATOM     12  C   LIG    1       -0.801   1.225  -0.318  0.00  0.00    +0.016 C 
+ATOM     13  C   LIG    1       -1.801   1.537   0.737  0.00  0.00    +0.005 C 
+ENDBRANCH   1  12
+TORSDOF 2

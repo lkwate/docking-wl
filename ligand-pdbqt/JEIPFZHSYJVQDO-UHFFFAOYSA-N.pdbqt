@@ -1,0 +1,15 @@
+REMARK  Name = molecules/JEIPFZHSYJVQDO-UHFFFAOYSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   LIG    1       -0.097  -1.010   0.422  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   2
+ATOM      2 FE   LIG    1       -1.493  -0.661  -0.200  0.00  0.00    +0.000 Fe
+ATOM      3  O   LIG    1       -1.544   1.428   0.986  0.00  0.00    +0.000 OA
+ENDBRANCH   1   2
+BRANCH   1   4
+ATOM      4 FE   LIG    1        1.412  -0.848  -0.184  0.00  0.00    +0.000 Fe
+ATOM      5  O   LIG    1        1.722   1.091  -0.543  0.00  0.00    +0.000 OA
+ENDBRANCH   1   4
+TORSDOF 2

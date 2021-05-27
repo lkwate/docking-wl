@@ -1,0 +1,80 @@
+REMARK  Name = molecules/RWZVPVOZTJJMNU-UHFFFAOYSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1        0.523   0.934  -2.245  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   LIG    1        0.369   0.572  -0.823  0.00  0.00    +0.000 C 
+BRANCH   2   3
+ATOM      3  C   LIG    1        1.419  -0.471  -0.397  0.00  0.00    +0.002 C 
+BRANCH   3   4
+ATOM      4  C   LIG    1        2.812   0.018  -0.566  0.00  0.00    +0.019 C 
+BRANCH   4   5
+ATOM      5  C   LIG    1        3.129   1.249   0.260  0.00  0.00    +0.111 C 
+BRANCH   5   8
+ATOM      6  C   LIG    1        5.606   1.161   0.776  0.00  0.00    +0.408 C 
+ATOM      7  O   LIG    1        5.384   0.334   1.698  0.00  0.00    -0.226 OA
+ATOM      8  N   LIG    1        4.506   1.657   0.016  0.00  0.00    -0.270 N 
+ATOM      9  C   LIG    1        4.827   2.616  -1.042  0.00  0.00    +0.135 C 
+BRANCH   6  10
+ATOM     10  O   LIG    1        6.898   1.543   0.549  0.00  0.00    -0.411 OA
+BRANCH  10  11
+ATOM     11  C   LIG    1        7.997   1.094   1.248  0.00  0.00    +0.135 A 
+ATOM     12  C   LIG    1        8.396   1.718   2.403  0.00  0.00    +0.046 A 
+ATOM     13  C   LIG    1        9.494   1.287   3.120  0.00  0.00    +0.005 A 
+ATOM     14  C   LIG    1       10.217   0.186   2.654  0.00  0.00    +0.022 A 
+ATOM     15  C   LIG    1        9.845  -0.455   1.508  0.00  0.00    +0.019 A 
+ATOM     16  C   LIG    1        8.737   0.016   0.826  0.00  0.00    +0.068 A 
+BRANCH  15  17
+ATOM     17  N   LIG    1       10.599  -1.564   1.061  0.00  0.00    -0.390 NA
+ATOM     18  C   LIG    1       11.465  -2.032   2.102  0.00  0.00    +0.109 C 
+ATOM     19  C   LIG    1        9.778  -2.668   0.603  0.00  0.00    +0.109 C 
+ATOM     20  C   LIG    1       11.420  -1.113  -0.056  0.00  0.00    +0.109 C 
+ENDBRANCH  15  17
+ENDBRANCH  10  11
+ENDBRANCH   6  10
+ENDBRANCH   5   8
+ENDBRANCH   4   5
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  21
+ATOM     21  C   LIG    1       -0.374   1.974  -2.764  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  C   LIG    1       -1.826   1.856  -2.838  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C   LIG    1       -2.664   1.707  -1.639  0.00  0.00    +0.002 C 
+BRANCH  23  24
+ATOM     24  C   LIG    1       -4.180   1.711  -1.952  0.00  0.00    +0.019 C 
+BRANCH  24  25
+ATOM     25  C   LIG    1       -4.463   0.543  -2.851  0.00  0.00    +0.111 C 
+BRANCH  25  26
+ATOM     26  N   LIG    1       -5.888   0.520  -3.116  0.00  0.00    -0.270 N 
+ATOM     27  C   LIG    1       -6.741  -0.190  -2.251  0.00  0.00    +0.408 C 
+ATOM     28  O   LIG    1       -7.971  -0.222  -2.495  0.00  0.00    -0.226 OA
+ATOM     29  C   LIG    1       -6.414   1.216  -4.252  0.00  0.00    +0.135 C 
+BRANCH  27  30
+ATOM     30  O   LIG    1       -6.304  -0.869  -1.123  0.00  0.00    -0.411 OA
+BRANCH  30  31
+ATOM     31  C   LIG    1       -7.163  -1.564  -0.282  0.00  0.00    +0.135 A 
+ATOM     32  C   LIG    1       -7.889  -0.926   0.713  0.00  0.00    +0.068 A 
+ATOM     33  C   LIG    1       -8.742  -1.604   1.554  0.00  0.00    +0.019 A 
+ATOM     34  C   LIG    1       -8.914  -2.967   1.441  0.00  0.00    +0.022 A 
+ATOM     35  C   LIG    1       -8.189  -3.610   0.447  0.00  0.00    +0.005 A 
+ATOM     36  C   LIG    1       -7.329  -2.926  -0.401  0.00  0.00    +0.046 A 
+BRANCH  33  37
+ATOM     37  N   LIG    1       -9.475  -0.900   2.559  0.00  0.00    -0.390 NA
+ATOM     38  C   LIG    1       -9.306  -1.529   3.835  0.00  0.00    +0.109 C 
+ATOM     39  C   LIG    1       -8.959   0.466   2.650  0.00  0.00    +0.109 C 
+ATOM     40  C   LIG    1      -10.873  -0.754   2.173  0.00  0.00    +0.109 C 
+ENDBRANCH  33  37
+ENDBRANCH  30  31
+ENDBRANCH  27  30
+ENDBRANCH  25  26
+ENDBRANCH  24  25
+ENDBRANCH  23  24
+ENDBRANCH  22  23
+ENDBRANCH  21  22
+ENDBRANCH   1  21
+TORSDOF 17

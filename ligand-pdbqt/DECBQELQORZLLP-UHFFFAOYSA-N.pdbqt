@@ -1,0 +1,34 @@
+REMARK  Name = molecules/DECBQELQORZLLP-UHFFFAOYSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   LIG    1       -0.887   1.123   0.999  0.00  0.00    -0.184 NA
+ATOM      2  C   LIG    1        0.355   0.870   1.168  0.00  0.00    +0.131 C 
+ENDROOT
+BRANCH   1   3
+ATOM      3  N   LIG    1       -1.563   2.154   1.660  0.00  0.00    -0.168 N 
+ATOM      4  C   LIG    1       -0.998   3.282   2.378  0.00  0.00    +0.232 C 
+ATOM      5  C   LIG    1       -1.999   4.349   2.088  0.00  0.00    +0.240 C 
+ATOM      6  N   LIG    1       -3.264   3.700   2.039  0.00  0.00    -0.237 N 
+ATOM      7  H   LIG    1       -4.197   4.149   2.174  0.00  0.00    +0.159 HD
+ATOM      8  O   LIG    1       -1.773   5.595   1.917  0.00  0.00    -0.274 OA
+ATOM      9  C   LIG    1       -2.973   2.313   1.768  0.00  0.00    +0.328 C 
+ATOM     10  O   LIG    1       -3.818   1.386   1.645  0.00  0.00    -0.250 OA
+ENDBRANCH   1   3
+BRANCH   2  11
+ATOM     11  C   LIG    1        0.956  -0.221   0.433  0.00  0.00    +0.025 C 
+ATOM     12  C   LIG    1        0.248  -0.943  -0.393  0.00  0.00    +0.048 C 
+BRANCH  12  13
+ATOM     13  C   LIG    1        0.846  -2.049  -1.141  0.00  0.00    +0.131 A 
+ATOM     14  O   LIG    1        2.080  -2.418  -1.075  0.00  0.00    -0.435 OA
+ATOM     15  C   LIG    1        2.343  -3.430  -1.847  0.00  0.00    +0.280 A 
+ATOM     16  C   LIG    1        1.164  -3.784  -2.504  0.00  0.00    +0.076 A 
+ATOM     17  C   LIG    1        0.217  -2.874  -2.028  0.00  0.00    +0.052 A 
+BRANCH  15  18
+ATOM     18  N   LIG    1        3.596  -4.093  -2.022  0.00  0.00    +0.093 N 
+ATOM     19  O   LIG    1        4.681  -3.636  -1.307  0.00  0.00    -0.123 OA
+ATOM     20  O   LIG    1        3.703  -5.059  -2.802  0.00  0.00    -0.123 OA
+ENDBRANCH  15  18
+ENDBRANCH  12  13
+ENDBRANCH   2  11
+TORSDOF 4

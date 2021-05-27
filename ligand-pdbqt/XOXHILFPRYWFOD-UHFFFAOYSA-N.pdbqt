@@ -1,0 +1,35 @@
+REMARK  Name = molecules/XOXHILFPRYWFOD-UHFFFAOYSA-N.pdb
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  S   LIG    1        0.186  -2.128  -0.463  0.00  0.00    +0.074 S 
+ATOM      2  O   LIG    1        0.648  -2.675   0.883  0.00  0.00    -0.150 OA
+ATOM      3  O   LIG    1       -0.445  -3.232  -1.272  0.00  0.00    -0.150 OA
+ENDROOT
+BRANCH   1   4
+ATOM      4  C   LIG    1       -1.070  -0.976  -0.109  0.00  0.00    +0.109 A 
+ATOM      5  C   LIG    1       -1.258  -0.447   1.133  0.00  0.00    +0.030 A 
+ATOM      6  C   LIG    1       -2.262   0.438   1.384  0.00  0.00    +0.024 A 
+ATOM      7  C   LIG    1       -3.118   0.827   0.389  0.00  0.00    +0.025 A 
+ATOM      8  C   LIG    1       -2.922   0.286  -0.874  0.00  0.00    +0.024 A 
+ATOM      9  C   LIG    1       -1.920  -0.607  -1.155  0.00  0.00    +0.030 A 
+BRANCH   7  10
+ATOM     10  N   LIG    1       -4.176   1.737   0.579  0.00  0.00    -0.358 N 
+ATOM     11  H   LIG    1       -3.998   2.747   0.690  0.00  0.00    +0.142 HD
+ATOM     12  H   LIG    1       -5.148   1.392   0.609  0.00  0.00    +0.142 HD
+ENDBRANCH   7  10
+ENDBRANCH   1   4
+BRANCH   1  13
+ATOM     13  N   LIG    1        1.550  -1.493  -1.234  0.00  0.00    -0.198 N 
+ATOM     14  H   LIG    1        1.759  -1.889  -2.215  0.00  0.00    +0.175 HD
+BRANCH  13  15
+ATOM     15  C   LIG    1        2.452  -0.528  -0.790  0.00  0.00    +0.160 A 
+ATOM     16  C   LIG    1        2.352   0.061   0.449  0.00  0.00    +0.050 A 
+ATOM     17  C   LIG    1        3.282   0.997   0.828  0.00  0.00    +0.045 A 
+ATOM     18  C   LIG    1        4.313   1.360  -0.002  0.00  0.00    +0.152 A 
+ATOM     19 CL   LIG    1        5.497   2.561   0.499  0.00  0.00    -0.060 Cl
+ATOM     20  N   LIG    1        4.372   0.758  -1.202  0.00  0.00    -0.136 NA
+ATOM     21  N   LIG    1        3.480  -0.140  -1.566  0.00  0.00    -0.131 NA
+ENDBRANCH  13  15
+ENDBRANCH   1  13
+TORSDOF 4
