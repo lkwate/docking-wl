@@ -29,7 +29,17 @@ In this part, we performed the following operations to realize the protein-ligan
 * In the last step, we built the optimized pose (ligand-receptor) using [chimera](https://www.cgl.ucsf.edu/chimera/download.html) which readily output the optimized pose into pdb format for submission at the [indaba-grand-challenge-curing-leishmaniasis](https://zindi.africa/competitions/indaba-grand-challenge-curing-leishmaniasis) challenge
 
 ## Strategy for pose selection
-
+Run the docking with the pair-wise combinations of all ligands and receptors will be computationally expensive, to overpass this we came out with a strategy to downside the list of pairs. The main points are describes as follows:
+ * Run the affinity computation with ligand-receptor pairs
+ ```
+ # X in [100(100)1400]
+ for target in list_target:
+    drugs = select_top_x(target) # select the top x drugs according to the binding scores
+    for drug in drugs:
+        run docking
+    drugs = sorted(drugs) # according to the energy from docking
+    best_target = 
+ ```
 ## Docking Protocol
 Foremost, the protocol for the ligand-protein affinity computation is well describe in the DeepPurpose's repository. We hereby describe only the guidelines for the docking protocol with the environment settled.
 ### Assumptions
