@@ -29,3 +29,18 @@ In this part, we performed the following operations to realize the protein-ligan
 * In the last step, we built the optimized pose (ligand-receptor) using [chimera](https://www.cgl.ucsf.edu/chimera/download.html) which readily output the optimized pose into pdb format for submission at the [indaba-grand-challenge-curing-leishmaniasis](https://zindi.africa/competitions/indaba-grand-challenge-curing-leishmaniasis) challenge
 
 ## Strategy for pose selection
+
+## Docking Protocol
+Foremost, the protocol for the ligand-protein affinity computation is well describe in the DeepPurpose's repository. We hereby describe only the guidelines for the docking protocol with the environment settled.
+### Assumptions
+  * The  folder *protein-pdbqt* contains the pdbqt version of the proteins we used in this experiment.
+  * The folder *ligand-pqbqt* contains the pdbqt version of the small molecules we used.
+  * The folder *configs* contain the best three binding sites for each protein.
+The following command performs the molecular docking for each pair in all the files contained in the folder *binding_score*
+```
+python3 docking.py --output 'outputs/' --binding_score 'binding_scores/' --config 'configs/' --log 'logs/' --ligand 'ligand-pdbqt/' --protein 'protein-pdbqt/'
+```
+or
+```
+bash docking.sh
+```

@@ -10,7 +10,7 @@ def docking(args):
 	
 	## iterate over the files contain the binding score (protein, ligand, binding_score)
 	for binding_score_file in os.listdir(args.binding_score):
-		binding_score_data = pd.read_csv(args.binding_score + binding_score_file)
+		binding_score_data = pd.read_csv(os.path.join(args.binding_score, binding_score_file))
 		
 		# get target name
 		target_name = binding_score_data.iloc[0]['Target-Name']
